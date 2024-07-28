@@ -6,13 +6,13 @@
 
 ## 📊 Статистика
 
-![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=Albina051298)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=Albina051298)
+![](https://github-readme-stats.vercel.app/api/pin/?username=Albina051298&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=Albina051298=github-readme-stats&cache_seconds=86400&theme=ambient_gradient)
+![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=Albina051298)
+<img src="./asset/dracula.svg" height=250 alt="graph"/> 
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
@@ -77,8 +77,8 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/ru%20(3).jpg" width="280px" hspace="10px" alt="Сертификат">]("https://raw.githubusercontent.com/Albina051298/Albina051298/main/agadzhanian_albina_certificate_139_hours_en%20(3).jpg")
-[<img src="/en%20(3).jpg.jpg" width="280px" hspace="10px" alt="Сертификат">]("https://raw.githubusercontent.com/Albina051298/Albina051298/main/agadzhanian_albina_certificate_139_hours_en%20(3).jpg")
+[<img src="hours_en%20(3).jpg" width="280px" hspace="10px" alt="Сертификат">]("https://raw.githubusercontent.com/Albina051298/Albina051298/main/agadzhanian_albina_certificate_139_hours_en%20(3).jpg")
+[<img src="hours_ru%20(3).jpg" width="280px" hspace="10px" alt="Сертификат">]("https://raw.githubusercontent.com/Albina051298/Albina051298/main/agadzhanjan_al%20bina_certificate_139_hours_ru%20(3).jpg")
 <br>
 <br>
 
