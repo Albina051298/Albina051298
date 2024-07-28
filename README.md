@@ -1,18 +1,16 @@
 ## Привет🤗
 Я — ТЕСТИРОВЩИК, ГОТОВЫЙ ИДТИ ЧЕРЕЗ ОГОНЬ И ВОДУ, ЧТОБЫ ОБНАРУЖИТЬ ВСЕ ОШИБКИ.
-
 МОЯ МИССИЯ — ОБЕСПЕЧИТЬ КАЧЕСТВО И БЕЗОПАСНОСТЬ В ВИРТУАЛЬНОМ МИРЕ! 🦹‍♀️
-
 
 ## 📊 Статистика
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=Albina051298&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient)
+![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=Albina051298)
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=Albina051298)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
 ![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=Albina051298)
-<img src="./asset/dracula.svg" height=250 alt="graph"/> 
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
@@ -65,7 +63,6 @@
 ## Автотесты
 <div>
   <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg" title="Actions" alt="Actions" width="40" height="40"/>&nbsp
 </div>
@@ -74,12 +71,6 @@
 <!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
 
 
-<br>
-
-## 🎒 Образование
-[<img src="hours_en%20(3).jpg" width="280px" hspace="10px" alt="Сертификат">]("https://raw.githubusercontent.com/Albina051298/Albina051298/main/agadzhanian_albina_certificate_139_hours_en%20(3).jpg")
-[<img src="hours_ru%20(3).jpg" width="280px" hspace="10px" alt="Сертификат">]("https://raw.githubusercontent.com/Albina051298/Albina051298/main/agadzhanjan_al%20bina_certificate_139_hours_ru%20(3).jpg")
-<br>
 <br>
 
 ## 🤝 Контакт
